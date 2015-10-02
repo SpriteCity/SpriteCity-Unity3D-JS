@@ -1,0 +1,12 @@
+Library/
+Builds/
+Temp/
+*.userprefs
+*.meta
+
+ # Visual studio files
+*.user
+*.suo
+obj/
+bin/
+.vs/
